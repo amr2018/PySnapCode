@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.egg-info/
+temp_snap.html
+temp_snap.pdf
+output_image_*.jpg
